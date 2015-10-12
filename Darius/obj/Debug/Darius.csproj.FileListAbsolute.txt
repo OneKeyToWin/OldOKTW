@@ -1,0 +1,2 @@
+C:\Users\Sebby\Documents\LeagueSharp\LeagueRepo\Darius\bin\Release\Darius.exe.config
+C:\Users\Sebby\Documents\LeagueSharp\LeagueRepo\Darius\obj\Debug\Darius.csprojResolveAssemblyReference.cache
